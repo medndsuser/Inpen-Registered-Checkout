@@ -92,7 +92,7 @@ public class Practi {
 		WebElement saveemail = driver.findElement(By.id("saveEmailButton"));
 		saveemail.click();
 		Thread.sleep(6000);
-		
+		Thread.sleep(6000);
       }
 }
 //      @Test
